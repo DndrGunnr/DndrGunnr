@@ -2,10 +2,7 @@
 
 ### Hello there 👋
 
-I'm in freshman year in Computer Engineering at University of Genova🏤
-Main focus right now is in the automation field🤖
 
-Right now I am using mostly C++, but I used Python and Html in the past
 
 
 <!--
