@@ -1,6 +1,7 @@
-<img src="https://i.imgur.com/QQzsrBH.gif" with="1000" height="400"/>
+
 
 ### Hello there 👋
+I'm a computer engineer student @UniGe, currently working on Android applications and Unreal Engine, but planning on working on autonomous systems and IoT embedded devices.
 
 
 
