@@ -1,7 +1,7 @@
 
 
 ### Hello there 👋
-I'm a Robotic engineering student @UniGe, currently working on system modeling and simulation with MatLab, robot programming in C and Machine Learning, in the past I spent some time on Android applications programming, Unreal Engine applications and IoT embedded systems.
+I'm a Robotic engineering student @UniGe, currently working on systems modeling and simulation with MatLab, robot programming in C, and Machine Learning. In the past I spent some time on Android applications programming, Unreal Engine applications, and IoT embedded systems.
 
 
 
