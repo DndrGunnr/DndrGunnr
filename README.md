@@ -1,7 +1,7 @@
 
 
 ### Hello there 👋
-I'm a Robotic engineering student @UniGe and a double degree student in EMARO @ ECN. In the past year, I've been working on systems modeling and simulation with MatLab, robot programming with ROS, CV applications, and Machine Learning. My current interests revolve around autonomous systems (drones) for Aerial, Maritime and Spatial environments.
+I'm a Robotic engineering student @UniGe and a double degree student in EMARO @ ECN. In the past year, I've been working on systems modeling and simulation with MatLab, robot programming with ROS, CV applications, and Machine Learning. My current interests revolve around autonomous systems for Aerial, Maritime and Spatial environments.
 
 
 
