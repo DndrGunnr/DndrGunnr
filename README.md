@@ -1,7 +1,7 @@
 
 
 ### Hello there 🤖
-I'm a Robotics engineering student at UniGe and a double-degree student in the EMARO program at ECN. In the past year, I've been working on system modelling and simulation, robot programming with ROS, and exploring robot perception and control on manipulators and mobile platforms for ground, maritime, and aerial environments. My current interest is in mobile robots for planetary exploration.
+I'm a Robotics engineering student at UniGe and a double-degree student in the EMARO program at ECN. In the past year, I've been working on systems modelling and simulation, robot programming with ROS, and exploring robot perception and control on manipulators and mobile platforms for ground, maritime, and aerial environments. My current interest is in mobile robots for planetary exploration.
 
 
 ### :fire: My Stats :
