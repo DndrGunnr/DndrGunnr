@@ -21,6 +21,24 @@ I'm a Robotics engineering student at UniGe and a double-degree student in the E
 ### 📊 Programming Languages Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DndrGunnr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🧰 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF8200.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-%23FF0000.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Creo](https://img.shields.io/badge/Creo-%23007ACC.svg?style=for-the-badge&logo=PTC&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%231A76D2.svg?style=for-the-badge&logo=ROS&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=for-the-badge&logo=ROS&logoColor=white)
+
+
+
+
 
 
 <!--
