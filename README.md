@@ -4,9 +4,6 @@
 I'm a Robotics engineering student at UniGe and a double-degree student in the EMARO program at ECN. In the past year, I've been working on systems modelling and simulation, robot programming with ROS, and exploring robot perception and control on manipulators and mobile platforms for ground, maritime, and aerial environments. My current interest is in mobile robots for planetary exploration.
 
 
-### :fire: My Stats :
-<!-- (url)https://github-readme-streak-stats.herokuapp.com/?user=giorgiodaneri \ -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DndrGunnr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiodaneri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
