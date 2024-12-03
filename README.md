@@ -31,7 +31,7 @@ I'm a Robotics engineering student at UniGe and a double-degree student in the E
 ![Simulink](https://img.shields.io/badge/Simulink-%23FF0000.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Creo](https://img.shields.io/badge/Creo-%23007ACC.svg?style=for-the-badge&logo=PTC&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%231A76D2.svg?style=for-the-badge&logo=ROS&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=for-the-badge&logo=ROS&logoColor=white)
+
 
 
 
